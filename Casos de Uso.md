@@ -10,7 +10,7 @@
 6 - Empresa informa número de contato <br>
 7 - Empresa informa endereço <br>
 8 - Empresa informa quantidade de funcionários <br>
-9 - Sistema valida Empresa <br>
+9 - Sistema valida Empresa (sublinhado) <br>
 <b>Extensões:</b> <br>
 3a - Se CNPJ for inválido, solicitar novo CNPJ <br>
 9a - Se empresa for inválida, solicitar dados válidos <br>
